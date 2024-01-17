@@ -1,2 +1,13 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Serie Fibonacci</title>
+</head>
+<body>
+
+<script src="script.js"></script>
+
+</body>
+</html>
